@@ -50,8 +50,6 @@ Method | Precision | Recall  | F1-score | Time | Dataset |
 Embeded | 0.2779 | 0.3421 | 0.2906 | 578.2 | (Crowd)|
 Rake | 0.1896 | 0.2087 | 0.1493 | 0.41 | (Crowd)|
 Lavanya Sharan KE |  0.7555  | 0.1697|  0.2418|  52| (Crowd)|
-Embeded gensim ngram with cosine | 0.267 |.03672 | 0.2444 | 2.08 | (Crowd) |
-Stopword and punc as delimiter and finding ngrams | 0.122 | 0.5931| 0.1709| 0.42 | (Crowd) |
 
 
 ### Descrpition of files:</br>
